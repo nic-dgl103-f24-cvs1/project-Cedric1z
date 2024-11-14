@@ -29,3 +29,24 @@ The three pages I'm building are:
 
 Homepage, Gallery, and Visitors.
 
+
+Homepage
+
+Header
+
+Logo
+
+Main Navigation
+.Home
+.About
+>About Us
+>Testimonials
+>Links
+>News
+>Media
+
+.Gallery
+.What's happening
+.Visitors
+.Contact
+
