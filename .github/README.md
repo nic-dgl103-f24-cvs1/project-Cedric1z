@@ -62,6 +62,8 @@ Some images from the garden—perhaps a big background image of the garden.
 
 A link to the gardens gallery so people can see more if they want.
 
+Put the events in a sidebar of sorts to reduce clunk.
+
 Footer
 
 Show's opening times and contact information.
