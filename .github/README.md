@@ -19,3 +19,7 @@ As for colors, I feel like the current colour usage is a bit overwhelming; it's 
 Three colors would be green, white, black.
 
 The website has a lot of images, but they're a bit hard to find due to their size. I think there should be some large images on the homepage—perhaps even one as a background image for the website.
+
+As for fonts, I'd recommend cantora-one and host grotek. They're easy to read & have a sort of beauty to them.
+
+
