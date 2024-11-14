@@ -23,3 +23,9 @@ The website has a lot of images, but they're a bit hard to find due to their siz
 As for fonts, I'd recommend cantora-one and host grotek. They're easy to read & have a sort of beauty to them.
 
 
+Website Content:
+
+The three pages I'm building are:
+
+Homepage, Gallery, and Visitors.
+
