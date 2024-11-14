@@ -22,6 +22,7 @@ The website has a lot of images, but they're a bit hard to find due to their siz
 
 As for fonts, I'd recommend cantora-one and host grotek. They're easy to read & have a sort of beauty to them.
 
+The gallery is also a little bit over categorized if that makes sense? There are multiple groupings for the same images that you can browse, which feels unnecessary.
 
 Website Content:
 
@@ -77,6 +78,8 @@ Header
 
 Logo
 
-The images should be right up in your face from the get-go or at least some subset of images should be with the others still being accessible in folders.
+The images should be right up in your face from the get-go or at least some subset of images should be.
 
 They should also have more engaging titles—titles such as "Water Features" don't necessarily make me want to click and scroll on the images.
+
+I'd reduce the number of groupings for the images—e.g I'd have the images be viewable in large when you first click on the page and allow you to categorize & search them with the present albums button above. There's no need to have multiple grouping options when they all do the same thing.
