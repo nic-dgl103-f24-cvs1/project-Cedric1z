@@ -77,4 +77,6 @@ Header
 
 Logo
 
+The images should be right up in your face from the get-go or at least some subset of images should be with the others still being accessible in folders.
 
+They should also have more engaging titles—titles such as "Water Features" don't necessarily make me want to click and scroll on the images.
