@@ -12,4 +12,8 @@ Here are two homepages that I feel this website could take inspiration from for 
 
 First up, ncx.com. This website is absolutely beautiful; with a good color-blend & its video that showcases several beautiful aspects of nature at once.
 
-Secondly,
+Secondly, wcs.com. Same deal as the last one, but it has a much more compact & easy to access styling.
+
+As for colors, I feel like the current colour usage is a bit overwhelming; it's solely green, but I think it'd benefit from a slight usage of white or black to create some contrast.
+
+Three colors would be green, white, black
