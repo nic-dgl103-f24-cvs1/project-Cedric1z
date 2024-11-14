@@ -2,7 +2,9 @@ I've chosen https://woodlandgardens.ca/
 
 The websites most important aspect is its aesthetics; it's targetted towards people who enjoy gardening or beautiful things and thus should ideally have a beautiful website. It should make visitors think "Wow, I'd love to visit that place" but because of the websites lacking layout, it fails to do so.
 
-The current website isn't appropriate because it's clunky & has poor color choice,
+The gallery is also a little bit over categorized if that makes sense? There are multiple groupings for the same images that you can browse, which feels unnecessary.
+
+There should also be a way to get back to the original website through the gallery, but I'm having trouble doing so.
 
 How does it look and feel?
 
@@ -22,7 +24,6 @@ The website has a lot of images, but they're a bit hard to find due to their siz
 
 As for fonts, I'd recommend cantora-one and host grotek. They're easy to read & have a sort of beauty to them.
 
-The gallery is also a little bit over categorized if that makes sense? There are multiple groupings for the same images that you can browse, which feels unnecessary.
 
 Website Content:
 
@@ -83,3 +84,7 @@ The images should be right up in your face from the get-go or at least some subs
 They should also have more engaging titles—titles such as "Water Features" don't necessarily make me want to click and scroll on the images.
 
 I'd reduce the number of groupings for the images—e.g I'd have the images be viewable in large when you first click on the page and allow you to categorize & search them with the present albums button above. There's no need to have multiple grouping options when they all do the same thing.
+
+----------
+
+Visitors
