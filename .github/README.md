@@ -62,7 +62,10 @@ Some images from the garden—perhaps a big background image of the garden.
 
 A link to the gardens gallery so people can see more if they want.
 
+Footer
 
+Show's opening times and contact information.
+Link to facebook or other media
 
 ---------
 
