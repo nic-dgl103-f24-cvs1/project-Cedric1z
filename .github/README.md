@@ -16,4 +16,6 @@ Secondly, wcs.com. Same deal as the last one, but it has a much more compact & e
 
 As for colors, I feel like the current colour usage is a bit overwhelming; it's solely green, but I think it'd benefit from a slight usage of white or black to create some contrast.
 
-Three colors would be green, white, black
+Three colors would be green, white, black.
+
+The website has a lot of images, but they're a bit hard to find due to their size. I think there should be some large images on the homepage—perhaps even one as a background image for the website.
