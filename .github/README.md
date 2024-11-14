@@ -29,7 +29,7 @@ The three pages I'm building are:
 
 Homepage, Gallery, and Visitors.
 
-
+--------
 Homepage
 
 Header
@@ -44,9 +44,32 @@ Main Navigation
 >Links
 >News
 >Media
-
 .Gallery
 .What's happening
 .Visitors
 .Contact
+
+Hero Section
+Heading: “Kitty Coleman Woodland Gardens is a feast for the senses. Nature's healing powers contained in this serene beauty bring a calmness and tranquility to the soul”
+Image: Beautiful picture of the gardens entrance
+Link to prices portion of the garden.
+
+About Section
+Heading: “About Us”
+Paragraph: Information about the gardens history & interesting locations.
+
+Some images from the garden—perhaps a big background image of the garden.
+
+A link to the gardens gallery so people can see more if they want.
+
+
+
+---------
+
+Gallery
+
+Header
+
+Logo
+
 
