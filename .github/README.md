@@ -29,7 +29,7 @@ Website Content:
 
 The three pages I'm building are:
 
-Homepage, Gallery, and Visitors.
+Homepage, Contact, and Visitors.
 
 - - - - IMPORTANT - - - - 
 
@@ -77,18 +77,44 @@ Link to facebook or other media
 
 ---------
 
-Gallery
+Contact
 
-Header
 
-Logo
+Contact Methods
 
-The images should be right up in your face from the get-go or at least some subset of images should be.
+Phone: Display with an icon.
+Email: Display with an icon.
+Address: Display with an icon.
 
-They should also have more engaging titles—titles such as "Water Features" don't necessarily make me want to click and scroll on the images.
 
-I'd reduce the number of groupings for the images—e.g I'd have the images be viewable in large when you first click on the page and allow you to categorize & search them with the present albums button above. There's no need to have multiple grouping options when they all do the same thing.
+Contact Form
+
+Fields: Email Address, Name (optional).
+Submit Button: Contrasting color for visibility.
+Map Integration
+
+Google Maps: Embed an interactive map with the location pinned.
+Aesthetic and Functional Touches
+
+Background: Subtle green to white gradient.
+Typography: Cantora One for headings, Host Grotesk for body text.
 
 ----------
 
 Visitors
+
+ Hero Section
+- Image: Full-width background image of the gardens.
+- Text: "Explore the Natural Beauty of Kitty Coleman Woodland Gardens".
+
+ Visitor Information
+- Admission: Listed prices for adults, children, and special rates.
+- Hours: (e.g: "9 a.m. to dusk daily; after hours available by arrangement". )
+- Amenities: Icons for benches, picnic area, gazebo, and tea room.
+
+ Interactive Map
+- Functionality: Clickable for details; Consider embedding Google Maps for interaction.
+
+Footer
+- Contact Info: Displayed with icons for phone and email.
+- Social Media Links: Direct links to Facebook, Instagram, etc.
