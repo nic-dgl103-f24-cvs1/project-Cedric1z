@@ -16,7 +16,7 @@ body {
 header {
     background-color: #2d6b2d; /* Deep green */
     color: white;
-    padding: 1rem;
+    
     text-align: center;
     position: relative;
 }
@@ -132,3 +132,14 @@ align-items: start;
     max-width: 100%; 
     display: block; 
 }
+
+.header-container
+
+{  background-image: url('images/background.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    
+    
+    
+    }
