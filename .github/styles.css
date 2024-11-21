@@ -107,15 +107,25 @@ main {
 }
 
 .cta-button {
-    display: inline-block;
+    display: flex;
+    padding: 0;
+    align-items: flex-start;
     background-color: #2d6b2d;
     color: white;
     text-decoration: none;
     padding: 0.75rem 1.5rem;
-    border-radius: 4px;
+    border-radius: 8px;
     font-size: 1rem;
     transition: background-color 0.3s ease;
+    padding: 0.5rem 0.5rem;
+
+
+
+
+ 
 }
+    
+
 
 
 .logo { 
