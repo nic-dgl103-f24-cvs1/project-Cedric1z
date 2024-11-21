@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+    .container {
+        position: relative;
+        height: 60px;
+        background-color: #ffb300;
+    }
+
+    .nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100%;
+        padding: 0 10px;
+        background-color: #8daa92; 
+    }
+
+    .nav-logo {
+        height: 40px;
+        width: auto;
+        filter: sepia(60%); 
+    }
+
+.nav

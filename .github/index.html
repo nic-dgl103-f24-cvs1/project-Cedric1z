@@ -1,13 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-    <!--Terribly sorry for the late submission; I assumed that the expected time would be before the next class. I'll make sure to complete the next step on time.-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Kitty Coleman Woodland Gardens</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
+<!--Terribly sorry for the late submission; I assumed that the expected time would be before the next class. I'll make sure to complete the next step on time.-->
+
 </head>
 <body>
+    <header>
+        <section class="container">
+            <nav class="nav">
+              <button class="toggle" aria-label="Toggle navigation" onclick="showNav()"><i class="fa fa-bars" aria-hidden="true"></i></button>
+              <img src="images/kitty-coleman.png" alt="My Website Logo" class="nav-logo">
+              <ul id="nav-items" class="nav-menu">
+                  <li><a href="#home">Home</a></li>
+                  <li><a href="#about">About</a></li>
+                  <li><a href="#services">Gallery</a></li>
+                  <li><a href="#contact">What's Happening</a></li>
+                  <li><a href="#login" >Visitors</a></li>
+                  <li><a href="#login" >Contact</a></li>
+                </ul>
+            </nav>
+        </section>
+    </header>
+
+
+    <script>
+        function showNav() {
+            var element = document.getElementById("nav-items");
+            element.classList.toggle("show-items");
+        }
+    </script>
     
 </body>
 </html>
