@@ -166,3 +166,8 @@ align-items: start;
     .location-section2 p { color: white; }
 
     .location-section2 h2 { color: white; }
+
+    .footerclass {display: flex;
+        flex-direction: column;
+    
+    }
