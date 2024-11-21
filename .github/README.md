@@ -31,6 +31,10 @@ The three pages I'm building are:
 
 Homepage, Gallery, and Visitors.
 
+- - - - IMPORTANT - - - - 
+
+P.S I've reconfigured this readme from my first submission after some you shared some insights for the site in class, such as  advising that I don't remake the gallery section (hope that's okay)
+
 --------
 Homepage
 
