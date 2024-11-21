@@ -5,36 +5,59 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kitty Coleman Woodland Gardens</title>
     <link rel="stylesheet" href="styles.css">
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-
-<!--Terribly sorry for the late submission; I assumed that the expected time would be before the next class. I'll make sure to complete the next step on time.-->
-
-</head>
-<body>
-    <header>
-        <section class="container">
-            <nav class="nav">
-              <button class="toggle" aria-label="Toggle navigation" onclick="showNav()"><i class="fa fa-bars" aria-hidden="true"></i></button>
-              <img src="images/kitty-coleman.png" alt="My Website Logo" class="nav-logo">
-              <ul id="nav-items" class="nav-menu">
-                  <li><a href="#home">Home</a></li>
-                  <li><a href="#about">About</a></li>
-                  <li><a href="#services">Gallery</a></li>
-                  <li><a href="#contact">What's Happening</a></li>
-                  <li><a href="#login" >Visitors</a></li>
-                  <li><a href="#login" >Contact</a></li>
-                </ul>
-            </nav>
-        </section>
-    </header>
-
-
     <script>
         function showNav() {
             var element = document.getElementById("nav-items");
             element.classList.toggle("show-items");
         }
     </script>
-    
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <img src="images/kitty-coleman.png" alt="Kitty Coleman Logo" class="logo">
+            <div class="header-title">
+                <h1>Kitty Coleman</h1>
+                <h2>Woodland Gardens</h2>
+            </div>
+            <button class="menu-toggle" onclick="showNav()">☰</button>
+        </div>
+    </header>
+
+    <nav id="nav-items" class="hidden">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Gallery</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="welcome-section">
+            <h2>Welcome to Kitty Coleman</h2>
+            <p>
+                <strong>Woodland Gardens</strong> is a feast for the senses. 
+                Nature's healing powers contained in this serene beauty bring 
+                a calmness and tranquility to the soul.
+            </p>
+            <a href="#" class="cta-button">View our Photo Gallery »</a>
+        </section>
+
+        <section class="location-section">
+            <div class="location-content">
+                <h2>Visit Us</h2>
+                <p>
+                    Located in the heart of nature, Kitty Coleman Woodland Gardens 
+                    offers an escape to lush greenery and serene landscapes.
+                </p>
+                <p>Plan your visit today!</p>
+                <a href="#" class="cta-button">Get Directions »</a>
+            </div>
+            <div class="location-image">
+                <img src="images/fountain.jpg" alt="Location Image" class="img">
+            </div>
+        </section>
+    </main>
 </body>
 </html>
