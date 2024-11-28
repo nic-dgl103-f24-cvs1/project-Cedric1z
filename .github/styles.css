@@ -1,4 +1,4 @@
-/* Reset and base styles */
+/* reset and base styles */
 * {
     margin: 0;
     padding: 0;
@@ -12,11 +12,10 @@ body {
     color: #333;
 }
 
-/* Header Styles */
+/* header styles */
 header {
     background-color: #2d6b2d; 
     color: white;
-    
     text-align: center;
     position: relative;
 }
@@ -49,11 +48,11 @@ header h2 {
     cursor: pointer;
 }
 
-/* Navigation Styles */
+/* navigation styles */
 nav {
     background-color: #2d6b2d;
     text-align: center;
-    display: none;
+    display: none; /* hidden by default, shown on menu click */
 }
 
 nav.show-items {
@@ -79,7 +78,7 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
-/* Main Section */
+/* main section styles */
 main {
     padding: 2rem;
     text-align: center;
@@ -107,114 +106,92 @@ main {
 }
 
 .cta-button {
-   margin-left: 155px;
-    padding: 0;
-    align-items: flex-start;
     background-color: #2d6b2d;
     color: white;
     text-decoration: none;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-
+    padding: 0.5rem 1rem;
     border-radius: 8px;
     font-size: 1rem;
     transition: background-color 0.3s ease;
-    padding: 0.5rem 0.5rem;
-
-
-
-
- 
-}
-    
-
-
-
-
-.logo { 
-
-display: flex;
-align-items: start;
-
 }
 
+/* image styles for sections */
 .location-image img {
     padding-top: 20px;
     width: 100%; 
     height: auto; 
     max-width: 100%; 
-    display: block; 
+    display: block; /* centers image */
 }
 
-.header-container
-
-{  background-image: url('images/background.jpg'); 
+/* applying background styles to header container */
+.header-container {  
+    background-image: url('images/background.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
-    
-    
-    
-    }
+}
 
-    .location-section2 { 
-        
-        display: flex;
-        flex-direction: column;
-        background-color: red;
-        margin-top: 30px;
-    }
+/* style for location-section2 */
+.location-section2 { 
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    margin-top: 30px;
+    align-items: center; /* centers everything in the section vertically */
+}
 
-    .location-section2 p { color: white; }
+.location-section2 p, .location-section2 h2 { 
+    color: white; /* sets text color to white */
+}
 
-    .location-section2 h2 { color: white; }
-
-
+/* footer styles */
 .signingon { 
     display: flex;
     flex-direction: column;
-justify-content: space-around;}
-    .footerclass ul {
-        list-style-type: none; 
-        padding: 0; 
-    }
-    
-    .footerclass li {
-        margin: 0 10px; 
-        
-    }
-    
-    .nav-link2 {
-        text-decoration: none;
-        color: #333; 
-        font-weight: bold;
-        font-size: 14px;
-    }
-    
+    justify-content: space-around;
+}
 
-    /* Media Queries for Desktops */
+.footerclass ul {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+.footerclass li {
+    margin: 0 10px; 
+}
+
+.nav-link2 {
+    text-decoration: none;
+    color: #333; 
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/* media queries for desktops */
 @media (min-width: 768px) {
     header {
-        padding: 20px 0; 
+        padding: 20px 0;
     }
-    
+
     header img {
         max-height: 100px;
     }
 
     header h1 {
-        font-size: 2.5rem; 
+        font-size: 2.5rem;
     }
 
     header h2 {
-        font-size: 1.5rem; 
+        font-size: 1.5rem;
     }
 
     .menu-toggle {
-        display: none; 
+        display: none; /* hides the toggle button on desktop */
     }
 
     nav {
-        display: block; 
+        display: block;
         padding: 1rem 0;
     }
 
@@ -241,10 +218,11 @@ justify-content: space-around;}
 
     .location-image img {
         max-width: 50%;
+        margin: auto; /* centers image horizontally */
     }
 
     .cta-button, .lm-button {
-        font-size: 1.2rem; 
+        font-size: 1.2rem;
         padding: 0.8rem 1.2rem;
     }
 }
