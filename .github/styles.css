@@ -110,9 +110,10 @@ main {
     color: white;
     text-decoration: none;
     padding: 0.5rem 1rem;
-    border-radius: px;
+    border-radius: 4px;
     font-size: 1rem;
     transition: background-color 0.3s ease;
+    
 }
 
 /* image styles for sections */
@@ -222,7 +223,7 @@ main {
     }
 
     .location-section, .location-section2 {
-        width: 100%; /* Full width to manage padding and margin correctly */
+        width: 100%;
         display: flex;
         flex-direction: column;
         align-items: center;
