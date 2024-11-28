@@ -180,13 +180,6 @@ main {
 }
 
 /* footer styles */
-.signingon { 
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    font-size: 1.7em;
-    padding-bottom: 15px;
-}
 
 .footerclass ul {
     list-style-type: none; 
@@ -264,6 +257,14 @@ main {
         flex-direction: column;
         align-items: center;
     }
+    .signingon { 
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        font-size: 1.7em;
+        padding-bottom: 15px;
+    }
+    
 
   
     .welcome-section .cta-button { 
@@ -303,6 +304,22 @@ width: 400%;
    
 }
 
+.location-section34 { 
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: 80%;
+    margin: auto;
+    padding-top: 30px;
+    
+
+
+
+
+    padding-right: 30px;
+   
+}
+
+.location-section34 img { padding-left: 100px;}
 
 
 }
