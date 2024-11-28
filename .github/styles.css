@@ -154,13 +154,14 @@ main {
 
 
 
-/* applying background styles to header container */
-.header-container {  
-    background-image: url('images/background.jpg'); 
-    background-size: cover; 
-    background-position: center; 
-    background-repeat: no-repeat; 
+.header-container { 
+
+    max-height: 130px;
+    display: flex;
+    justify-content: center;
 }
+
+
 
 /* style for location-section2 */
 .location-section2 { 
@@ -181,8 +182,10 @@ main {
 /* footer styles */
 .signingon { 
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-around;
+    font-size: 1.7em;
+    padding-bottom: 15px;
 }
 
 .footerclass ul {
@@ -261,6 +264,7 @@ main {
         align-items: center;
     }
 
+  
     .welcome-section .cta-button { 
         margin-bottom: 100px;
         
