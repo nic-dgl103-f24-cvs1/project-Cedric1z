@@ -233,7 +233,8 @@ main {
 
     nav ul {
         display: flex;
-        justify-content: center;
+        justify-content: space-around;
+        align-items: center;
     }
 
     nav ul li {
@@ -301,6 +302,8 @@ width: 400%;
     padding-left: 30px;
    
 }
+
+
 
 }
 
