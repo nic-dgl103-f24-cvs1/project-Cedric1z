@@ -110,7 +110,7 @@ main {
     color: white;
     text-decoration: none;
     padding: 0.5rem 1rem;
-    border-radius: 8px;
+    border-radius: px;
     font-size: 1rem;
     transition: background-color 0.3s ease;
 }
@@ -221,8 +221,9 @@ main {
         margin: auto; /* centers image horizontally */
     }
 
-    .cta-button, .lm-button {
-        font-size: 1.2rem;
-        padding: 0.8rem 1.2rem;
+    .location-content {
+        position: relative;
+        left: 180px; 
+        bottom: 70px;
     }
-}
+    
