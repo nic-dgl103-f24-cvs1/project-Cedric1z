@@ -68,7 +68,7 @@ nav ul {
 }
 
 nav ul li {
-    padding: 1rem 0;
+    
 }
 
 nav ul li a {
@@ -231,7 +231,7 @@ main {
     }
 
     nav ul li {
-        margin: 0 10px;
+      
     }
 
     .welcome-section, .location-section {
