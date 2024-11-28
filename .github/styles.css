@@ -221,9 +221,9 @@ main {
         margin: auto; /* centers image horizontally */
     }
 
-    .location-content {
-        position: relative;
-        left: 180px; 
-        bottom: 70px;
+    .location-section, .location-section2 {
+        width: 100%; /* Full width to manage padding and margin correctly */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
-    
