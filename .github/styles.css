@@ -197,6 +197,12 @@ main {
     font-size: 14px;
 }
 
+.nav-link3 {
+    text-decoration: none;
+    color: #333; 
+    font-weight: bold;
+}
+
 /* media queries for desktops */
 @media (min-width: 768px) {
     header {
@@ -384,3 +390,9 @@ textarea {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
+
+.nav-link2 { color: rgba(100, 68, 8, 0.863);
+
+font-size: .6em;
+
+margin-bottom: 10px;}
