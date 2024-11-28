@@ -10,6 +10,9 @@ body {
     line-height: 1.6;
     background-color: #cfe5d1;
     color: #333;
+    font-size: 1.5em;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 /* header styles */
@@ -105,12 +108,6 @@ main {
     text-align: center;
 }
 
-.location-content { 
-    display: flex;
-    top: -10px; 
-    left: 50px;
-    margin-right: 600px;
-}
   
 
 
@@ -266,8 +263,53 @@ main {
         
         }
 
+        .location-image2 { 
+width: 400%;
+          position: relative;
+          left: 130px;
+          bottom: -300px;
+          
+        }
+
+        
+.location-content { 
+    position: relative;
+    top: -120px; 
+    left: -650px;
+    margin-left: 200px;
+
+}
+
+.location-section3 { 
+    display: flex;
+    flex-direction: row;
+    max-width: 50%;
+    margin: auto;
+}
+
 }
 
 .welcome-section p {
     font-size: 1.9rem;
+}
+
+.container {
+    display: flex;
+    align-items: center; /* Aligns items vertically in the center */
+    justify-content: space-between; /* Optional: Puts space between the image and text */
+}
+
+.image-container img {
+    width: 100%; /* Ensures the image is responsive within the container */
+    max-width: 600px; /* Adjust max-width as needed */
+}
+
+.text-container {
+    flex: 1; /* Allows the text container to fill up the remaining space */
+    padding-left: 20px; /* Adds spacing between the text and the image */
+}
+
+.learn-more {
+    text-decoration: none; /* Optional styling for the link */
+    color: #006699; /* Optional: Adjust color to fit your design */
 }
