@@ -165,10 +165,13 @@ main {
 /* style for location-section2 */
 .location-section2 { 
     display: flex;
-    flex-direction: column;
+
     background-color: red;
-    margin-top: 30px;
-    align-items: center; /* centers everything in the section vertically */
+    max-width: 340px;
+   margin-left: 850px;
+
+
+    
 }
 
 .location-section2 p, .location-section2 h2 { 
