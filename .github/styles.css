@@ -384,11 +384,3 @@ textarea {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
-li { 
-
-    padding: 30px;
-}
-li:hover {
-    background-color: #555; /* Darkens the background on hover */
-    color: white; /* Changes text color to white on hover */
-}
