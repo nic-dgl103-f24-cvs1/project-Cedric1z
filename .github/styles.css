@@ -326,6 +326,24 @@ width: 400%;
    
 }
 
+.location-section343 { 
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: 40%;
+    margin: auto;
+    padding-top: 30px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    
+background-color: red;
+
+
+
+    padding-right: 30px;
+   
+}
+
 .image-containermap {
 
     padding-left: 1100px;
@@ -398,3 +416,12 @@ font-size: .6em;
 margin-bottom: 10px;}
 
 hr { border-color: brown;}
+
+.image-container2 {
+
+    position: relative;
+
+     
+
+    left: 430px;
+}
