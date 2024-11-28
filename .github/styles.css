@@ -68,7 +68,7 @@ nav ul {
 }
 
 nav ul li {
-    
+    padding: 1rem 0;
 }
 
 nav ul li a {
@@ -231,7 +231,7 @@ main {
     }
 
     nav ul li {
-      
+        margin: 0 10px;
     }
 
     .welcome-section, .location-section {
@@ -319,6 +319,11 @@ width: 400%;
    
 }
 
+.image-containermap {
+
+    padding-left: 1100px;
+}
+
 .location-section34 img { padding-left: 100px;}
 
 
@@ -357,5 +362,44 @@ body {
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="email"],
+input[type="text"],
+input[type="tel"],
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.captcha {
+    margin-bottom: 20px;
+}
+
 
 
