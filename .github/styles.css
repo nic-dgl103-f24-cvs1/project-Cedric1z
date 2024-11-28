@@ -384,23 +384,11 @@ textarea {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
+li { 
 
-button {
-    background-color: #4CAF50;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
+    padding: 30px;
 }
-
-button:hover {
-    background-color: #45a049;
+li:hover {
+    background-color: #555; /* Darkens the background on hover */
+    color: white; /* Changes text color to white on hover */
 }
-
-.captcha {
-    margin-bottom: 20px;
-}
-
-
-
