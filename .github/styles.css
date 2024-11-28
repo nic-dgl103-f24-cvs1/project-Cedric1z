@@ -294,7 +294,7 @@ width: 400%;
     padding-left: 30px;
 }
 
-}
+}sect
 
 .welcome-section p {
     font-size: 1.9rem;
@@ -303,7 +303,7 @@ width: 400%;
 .container {
     display: flex;
     align-items: center; 
-    justify-content: space-between;  /* reminder:  fiddle with this later. not  necessary but might look good */
+    justify-content: space-between;  
 }
 
 .image-container img {
