@@ -105,6 +105,10 @@ main {
     text-align: center;
 }
 
+.location-content { 
+    background-image: url('images/fountain.jpg');
+
+}
 
 
 .welcome-section h2 {
@@ -132,7 +136,7 @@ main {
     padding: 0.5rem 1rem;
     border-radius: 4px;
     font-size: 1rem;
-    transition: background-color 0.3s ease;
+
     
 }
 
