@@ -224,6 +224,21 @@ background-color: #bd0000;
     
 }
 
+table {
+    width: 50%;
+    margin: 20px;
+    border-collapse: collapse; /* to ensure  borders between cells are merged */
+    background-color: #ffffff;
+}
+th, td {
+    border: 1px solid black; /* this  a border around table cells */
+    padding: 10px;
+    text-align: left; /* this aligns text to the left */
+}
+th {
+    background-color: #f2f2f2; /* this is a light grey background for header */
+}
+
 
 /* media queries for desktops */
 @media (min-width: 768px) {
