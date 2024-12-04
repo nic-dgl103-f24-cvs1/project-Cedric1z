@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    Font-family: 'Parkinsans', sans-serif;
     line-height: 1.6;
  background-color: #c1c99a;
     color: #333;
@@ -22,7 +22,9 @@ header {
     color: white;
     text-align: center;
     position: relative;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Montserrat", sans-serif;
+    
+  
 }
 
 header img {
