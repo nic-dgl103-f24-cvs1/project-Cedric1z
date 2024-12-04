@@ -133,7 +133,7 @@ main {
 }
 
 .cta-button {
-    background-color: #2d6b2d;
+    background-color: #3f974f; 
     color: white;
     text-decoration: none;
     padding: 0.5rem 1rem;
@@ -143,6 +143,10 @@ main {
     
 }
 
+.cta-button:hover {
+
+    background-color: #2d6b2d; /* darker green when hovered */
+}
 
 
 /* image styles for sections */
