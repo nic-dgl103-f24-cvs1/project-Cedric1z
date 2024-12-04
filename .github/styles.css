@@ -229,7 +229,8 @@ table {
     margin: 20px;
     border-collapse: collapse; /* to ensure  borders between cells are merged */
     background-color: #ffffff;
-    margin-left: 230px;
+    margin-left: 100px;
+
 }
 th, td {
     border: 1px solid black; /* this  a border around table cells */
@@ -309,6 +310,9 @@ th {
         padding-bottom: 15px;
     }
     
+    table { 
+        margin-left: 230px;
+    }
 
   
     .welcome-section .cta-button { 
